@@ -4,7 +4,7 @@
 1. Windows 10
 2. Python 3.4.3 (64 bit)
 3. ActiveTcl 8.6 (64 bit)
-4. Pillow
+4. Pillow (Python Imaging Library)
 
 ### Usage
 On Windows, make sure file type pyw is associated with appropriate executable.
